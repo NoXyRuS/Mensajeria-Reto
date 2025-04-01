@@ -1,4 +1,4 @@
-# Mi Proyecto React con Tailwind CSS
+# Reto de React Beatriz Gonzalez
 
 Este es un proyecto creado con **React** y **Tailwind CSS**. 
 
@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 Primero, clona el repositorio a tu máquina local. Abre la terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/mi-proyecto-react.git 
+git clone https://github.com/NoXyRuS/Mensajeria-Reto.git
 ```
 
 
@@ -28,3 +28,6 @@ Posteriormente instalamos las tailwindcss
 ```npm install -D @tailwindcss/postcss7-compat```
 
 
+### 3. Ejecutar 
+Para iniciar el proyecto 
+```npm run dev```
